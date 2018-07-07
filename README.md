@@ -1,0 +1,2 @@
+# pyfoscopy
+copy pyfos
